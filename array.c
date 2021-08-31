@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 
-int main(void) {
+int main_array(void) {
 	
 	// 배열을 하기 전 
 	/*
